@@ -41,9 +41,10 @@ a software developer mainly in frontend, designing UI and implement cloud servic
 <a href="https://devicon.dev/devicon.git"><img alt="cloudflare" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="40" width="40" /></a>
 <a href="https://devicon.dev/devicon.git"><img alt="googlecloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" width="40" /></a>
 
-### currently learning
+### currently learning/Planned To Learn
 
-<a href="https://devicon.dev/devicon.git"><img alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40" /></a>
+ - **🔳 AI/ML with Python**
+ - **🔳 UX Copywriting**
 
 ## <img width="24" height="24" src="https://img.icons8.com/fluency/48/info.png" alt="info"/> More About Me
 
